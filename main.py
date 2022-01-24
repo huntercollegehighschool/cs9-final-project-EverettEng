@@ -27,7 +27,7 @@ elif(r == 2):
   print("Roses are " + noun1 + ", violets are " + adj1 + " I think that " + verb1 + " " + noun2 + " is sweet, because it is " + adj2 + " like you." )
 
 elif(r == 3):
-  print("I really hate " + noun1 +". They " + adj1 + "like nuisances, and once you think about them, they never " + verb1 + " out of your head. It doesn't matter how hard you try, it will not go away. For example, when I think about " + noun2 + ", I can never " + adj2 + "the thought away, and I get really irritated!"  )
+  print("I really hate " + noun1 +". They " + adj1 + " like nuisances, and once you think about them, they never " + verb1 + " out of your head. It doesn't matter how hard you try, it will not go away. For example, when I think about " + noun2 + ", I can never " + adj2 + " the thought away, and I get really irritated!"  )
 
 
 
